@@ -9,11 +9,11 @@
         Wenyi Liu, 
         Fangcheng Zhu, 
         Longji Yin, 
-        Liuyu Shi and Fu Zhang
+        Liuyu Shi <br>and Fu Zhang
     <p>
         <h45>
             <br>
-           <img src='./assets/MARS_logo.svg' alt='HKU MaRS Lab'>
+           <img src='./assets/MARS_logo.svg' alt='HKU MaRS Lab' width="200">
             <br>
         </h5>
     </p>
