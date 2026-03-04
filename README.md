@@ -1,4 +1,4 @@
-<img width="6462" height="291" alt="image" src="https://github.com/user-attachments/assets/418e07d2-4ef8-451a-9647-fd4d2bf6e5cf" /><div align="center">
+<div align="center">
     <h2>Memory-Efficient Boundary Map for Large-Scale Occupancy Grid Mapping</h2>
     <h3>The International Journal of Robotics Research (IJRR)' 26</h3>
     <br>
@@ -13,7 +13,7 @@
     <p>
         <h45>
             <br>
-           <img src='./assets/mars_logo.svg' alt='HKU MaRS Lab'>
+           <img src='./assets/MARS_logo.svg' alt='HKU MaRS Lab'>
             <br>
         </h5>
     </p>
