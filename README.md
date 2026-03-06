@@ -17,6 +17,8 @@
             <br>
         </h5>
     </p>
+    <a href="https://www.bilibili.com/video/BV1sQPkzpEGk"><img alt="Bilibili" src="./assets/Video-Bilibili-blue.svg"/></a>
+    <a href="https://www.youtube.com/watch?v=GzunpivVaag"><img alt="Youtube" src="./assets/Video-Youtube-red.svg"/></a>
 </div>
 
 # Updates
@@ -27,3 +29,7 @@
 The accepted manuscript is also aviliable at [here](./paper/IJRR_Tang.pdf). 
 The final version is available at [Sage Journals](https://journals.sagepub.com/doi/10.1177/02783649261425266)
 
+# Highlight
+Here is a visualization of the boundary map after the real-world navigation task.
+(Click to view the full navigation demo video)
+[![Video Demo](./assets/final_map.gif)](https://www.youtube.com/watch?v=GzunpivVaag)
